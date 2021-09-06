@@ -1,5 +1,5 @@
 # Continental-Emersion-2021
-Codes and input data used in the study of Chowdhury et al. (2021, PNAS)
+MATLAB codes (.m files) and input data (.dat files) used in the study of Chowdhury et al. (2021, PNAS)
 
 PLEASE CITE THE ARTICLE WHEN USING ONE OF THE CODES GIVEN BELOW
 
