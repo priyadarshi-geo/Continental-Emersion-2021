@@ -23,7 +23,7 @@ The codes and input files given here can reproduce the following figures present
 
 5. Figure 4 & SI Appendix Figs. S6-S7
 
-    Dscription: performs isostasy calculations, and also shows the temporal evolution of different input parameters (e.g., cratonic crustal thickness and density; CLM thickness) used in the model. 
+    Description: performs isostasy calculations, and also shows the temporal evolution of different input parameters (e.g., cratonic crustal thickness and density; CLM thickness) used in the model. 
     
 See SI Appendix Methods for the details of the modelling approaches and statistical analyses.
 
